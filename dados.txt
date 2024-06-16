@@ -1,11 +1,9 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Thalita Alves
+-Profissão: Analista de Testes
+-Cidade: Belo Horizonte
+-O que faz nas horas vaga: Estudo
 
 Obrigado!!!
 
